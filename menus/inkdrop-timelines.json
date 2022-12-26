@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle inkdrop-timelines",
+        "command": "inkdrop-timelines:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "inkdrop-timelines",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "inkdrop-timelines:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
