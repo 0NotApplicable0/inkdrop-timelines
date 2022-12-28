@@ -3,7 +3,7 @@
     ".CodeMirror": [
       {
         "label": "Toggle inkdrop-timelines",
-        "command": "inkdrop-timelines:toggle"
+        "command": "inkdrop-timelines:toggleSettings"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "inkdrop-timelines:toggle"
+              "command": "inkdrop-timelines:toggleSettings"
             }
           ]
         }

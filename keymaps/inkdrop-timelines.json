@@ -1,5 +1,5 @@
 {
   "body": {
-    "ctrl-alt-o": "inkdrop-timelines:toggle"
+    "ctrl-alt-o": "inkdrop-timelines:toggleSettings"
   }
 }
