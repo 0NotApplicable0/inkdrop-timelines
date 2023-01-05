@@ -10,6 +10,7 @@
     "inkdrop": "^5.3.1"
   },
   "dependencies": {
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "prop-types": "^15.8.1"
   }
 }
